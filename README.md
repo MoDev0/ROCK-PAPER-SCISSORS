@@ -1,2 +1,3 @@
 # ROCK-PAPER-SCISSORS
-simple game using javascript
+
+###simple game using javascript
